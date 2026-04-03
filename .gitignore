@@ -23,3 +23,4 @@ coverage/
 export-data/
 redis-data/
 CLAUDE.md
+.claude/
